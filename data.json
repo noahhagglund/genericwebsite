@@ -1,0 +1,124 @@
+{
+  "name": "Noah Hägglund",
+  "headline": "Sound Designer, Composer & Audio Engineer",
+  "location": "Stockholm, Sweden",
+  "description": "Stockholm-based sound designer, composer and audio engineer specializing in sound design, mixing, mastering and audio post-production for film, games, animation and commercial productions.",
+  "bio": [
+    "Hello! My name is Noah Hägglund.",
+    "I am a Stockholm-based sound designer, composer and audio engineer. I create sound design and music for games, animation, film and commercial productions.",
+    "Over the past several years, I have honed my craft by working on commercial film and television projects, specializing in audio production for short format promotional films.",
+    "However, I have also successfully applied my skills to longer formats, such as dramas & documentaries.",
+    "My expertise lies in capturing & crafting high-quality audio that enhances the overall production value of these projects."
+  ],
+  "services": [
+    {
+      "title": "Sound Design",
+      "description": "Design and create custom sound effects tailored to your project's specific needs. From detailed environments and movement to dramatic effects and atmospheric soundscapes."
+    },
+    {
+      "title": "Mixing & Mastering",
+      "description": "Mix and master your project's audio so dialogue, music and sound effects work together clearly and effectively."
+    },
+    {
+      "title": "Audio Restoration",
+      "description": "Clean up and restore existing recordings by removing unwanted noise, hiss, hum and other distractions while preserving the character of the original recording."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Christmas Greeting 2026",
+      "meta": "Sweco / Konkret AB · Role: Sound Designer",
+      "video": "https://www.youtube.com/embed/_bZya92FC8I?controls=1&modestbranding=1&rel=0&playsinline=1&enablejsapi=1",
+      "platform": "YouTube"
+    },
+    {
+      "title": "Christmas Greeting 2025",
+      "meta": "Sweco / Konkret AB · Role: Sound Designer",
+      "video": "https://www.youtube.com/embed/7YHTXxKZF6k?controls=1&modestbranding=1&rel=0&playsinline=1&enablejsapi=1",
+      "platform": "YouTube"
+    },
+    {
+      "title": "Blåkläder's Triple Density Sole",
+      "meta": "Blåkläder / Konkret AB · Role: Sound Designer",
+      "video": "https://player.vimeo.com/video/1098969894?h=e0b7eb809e&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "Red Bull Symphonic x Victor Leksell (BTS)",
+      "meta": "Redbull / SoYou · Role: Editor / Sound Designer",
+      "video": "https://www.youtube.com/embed/qAWUTnCIgBg?controls=1&modestbranding=1&rel=0&playsinline=1&enablejsapi=1",
+      "platform": "YouTube"
+    },
+    {
+      "title": "The Charging Game",
+      "meta": "Scania / Appelberg Communication · Role: Sound Designer",
+      "video": "https://player.vimeo.com/video/1084888893?h=dfa957d328&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "Swedish Sterling",
+      "meta": "Stirling Versal / Rob Whiteman · Role: Sound Designer",
+      "video": "https://player.vimeo.com/video/807228365?h=071261df06&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "12,000 KM - Trans-Siberian to Japan",
+      "meta": "Erik Nylander · Role: Composer / Sound Designer",
+      "video": "https://player.vimeo.com/video/476216027?h=d37157fb46&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "Paradox Arc 1st Year Anniversary",
+      "meta": "Paradox / Artistry Film · Role: Sound Designer",
+      "video": "https://www.youtube.com/embed/j9HB7QnrZMg?controls=1&modestbranding=1&rel=0&playsinline=1&enablejsapi=1",
+      "platform": "YouTube"
+    },
+    {
+      "title": "Showreel",
+      "meta": "Magoo / Lena Quach · Role: Sound Designer",
+      "video": "https://player.vimeo.com/video/807228093?h=772195fad5&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "Revelop",
+      "meta": "Revelop / Rob Whiteman · Role: Composer / Sound Designer",
+      "video": "https://player.vimeo.com/video/807228185?h=ece2d146ee&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "Jeopardy",
+      "meta": "Discover+ / Stricktly Post · Role: Composer / Sound Designer",
+      "video": "https://player.vimeo.com/video/901874454?h=c22ebfa144&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "#We create jobs",
+      "meta": "Zynca.se / Michel Megherbi · Role: Sound Designer",
+      "video": "https://www.youtube.com/embed/P_ChjFPzIm4?controls=1&modestbranding=1&rel=0&playsinline=1&enablejsapi=1",
+      "platform": "YouTube"
+    },
+    {
+      "title": "Helgfilmer",
+      "meta": "Discovery+ / Linnéa Fridh · Role: Sound Designer",
+      "video": "https://player.vimeo.com/video/807228878?h=1037221d5d&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    },
+    {
+      "title": "Riddermark",
+      "meta": "Riddermark / Michel Megherbi · Role: Sound Designer",
+      "video": "https://player.vimeo.com/video/807228277?h=2568559947&controls=1&title=0&byline=0&portrait=0&badge=0&autopause=0",
+      "platform": "Vimeo"
+    }
+  ],
+  "contact": {
+    "email": "noahhaegglund@gmail.com",
+    "phone": "+46702094944",
+    "linkedin": "https://www.linkedin.com/in/noah-h%C3%A4gglund-johnson-103055141/",
+    "instagram": "https://www.instagram.com/_njhnsn/"
+  },
+  "seo": {
+    "title": "Sound Designer Stockholm | Noah Hägglund — Sound Engineer, Ljuddesigner & Mixing Engineer",
+    "description": "Noah Hägglund is a Stockholm, Sweden based sound designer, ljuddesigner, sound engineer and mixing engineer working with sound design, ljudläggning, mixing, mastering and audio post-production for film, games, animation and commercial productions.",
+    "keywords_context": "Sound designer Stockholm, sound engineer Stockholm, ljuddesigner Stockholm, ljudtekniker Stockholm, ljudläggare Stockholm, mixare Stockholm, mixing engineer Stockholm, audio engineer Stockholm, sound design Sweden, ljuddesigner Sverige"
+  }
+}
