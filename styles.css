@@ -146,15 +146,12 @@ h2{font-size:clamp(2rem,4vw,3.6rem);line-height:1}
   line-height:1;
   letter-spacing:-.05em;
 }
-.contact-links{display:flex;flex-wrap:wrap;gap:10px}
-.contact-links a{
-  display:inline-flex;
-  align-items:center;
-  padding:11px 15px;
-  border:1px solid #444;
-  border-radius:999px;
-}
-.contact-links a:hover{background:#fff;color:#111}
+.contact-info{display:flex;flex-direction:column;gap:14px}
+.contact-email,.contact-phone{font-size:1.05rem}
+.contact-email a,.contact-phone a{display:inline-block;text-decoration:underline;text-underline-offset:4px}
+.contact-socials{display:flex;flex-wrap:wrap;gap:18px;margin-top:8px}
+.contact-socials a{font-size:.9rem;text-decoration:underline;text-underline-offset:3px}
+.contact-email a:hover,.contact-phone a:hover,.contact-socials a:hover{color:#bbb}
 
 .site-footer{background:var(--dark);color:#a7a7a0}
 .footer-inner{
