@@ -65,21 +65,38 @@ loadData().then(data=>{
   const services=document.getElementById("services-grid");
   data.services.forEach((s,i)=>services.appendChild(makeService(s,i)));
 
-  const contacts=document.getElementById("contact-links");
-  const entries=[
-    ["Email", data.contact.email ? `mailto:${data.contact.email}` : ""],
-    ["Phone", data.contact.phone ? `tel:${data.contact.phone}` : ""],
+  const contactInfo=document.getElementById("contact-info");
+
+  if(data.contact.email){
+    const row=document.createElement("div");
+    row.className="contact-email";
+    row.innerHTML=`Email: <a href="mailto:${escapeHtml(data.contact.email)}">${escapeHtml(data.contact.email)}</a>`;
+    contactInfo.appendChild(row);
+  }
+
+  if(data.contact.phone){
+    const row=document.createElement("div");
+    row.className="contact-phone";
+    row.innerHTML=`Phone: <a href="tel:${escapeHtml(data.contact.phone)}">${escapeHtml(data.contact.phone)}</a>`;
+    contactInfo.appendChild(row);
+  }
+
+  const socials=document.createElement("div");
+  socials.className="contact-socials";
+
+  const socialEntries=[
     ["LinkedIn", data.contact.linkedin || ""],
     ["Instagram", data.contact.instagram || ""]
   ];
-  entries.filter(x=>x[1]).forEach(([label,href])=>{
+
+  socialEntries.filter(x=>x[1]).forEach(([label,href])=>{
     const a=document.createElement("a");
     a.href=href;
     a.textContent=label;
-    if(href.startsWith("http")){
-      a.target="_blank";
-      a.rel="noopener noreferrer";
-    }
-    contacts.appendChild(a);
+    a.target="_blank";
+    a.rel="noopener noreferrer";
+    socials.appendChild(a);
   });
+
+  if(socials.children.length) contactInfo.appendChild(socials);
 }).catch(err=>console.error(err));
